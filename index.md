@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/Gageco/gagecoMain/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, my name is Gage Coprivnicar, I am a student at Colorado School of Mines, graduation date 2020. I am majoring in Electrical Engineering with an interest in renewable energy and circuit design, with a minor in Computer Science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Whats This About
 
-### Markdown
+This site acts as a showcase of what I have done and am doing related to job experience and internships, as well as programs I work on for fun. At a given time I have several projects I am working on ranging from building webservers to automated trading algorithms.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Trading
 
-```markdown
-Syntax highlighted code block
+As it stands now my interests in learning how to trading on the stock market, with an interest in learning to write trading algorithms as a way to make money on the side. This pursuit is incredibly difficult as it is generally said that the markets are impossible to predict but it has encouraged me to learn more and more about both the financial markets that control America as well as develop my programming skills to translate real time trading into something that can be done by a computer
 
-# Header 1
-## Header 2
-### Header 3
+Currently in the interest of learning to trade stocks first I have established a company [Coprivnicar Ventures LLC](http://coprivnicar.ventures) head over there to learn more about that.
 
-- Bulleted
-- List
+## Renewable energy
 
-1. Numbered
-2. List
+I am intersted in an Electrical Engineering degree so I can get into the renewable energy field. I would like to establish renewable energy bases as well as more sustainable methods of creating the resources required to build renewable energy sources like photovoltaic cells and the like.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gageco/gagecoMain/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This combined with my business and programming skills has enabled me to push my understanding of a variety of practical applications\
