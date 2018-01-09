@@ -10,8 +10,6 @@ This site acts as a showcase of what I have done and am doing related to job exp
 
 As it stands now my interests in learning how to trading on the stock market, with an interest in learning to write trading algorithms as a way to make money on the side. This pursuit is incredibly difficult as it is generally said that the markets are impossible to predict but it has encouraged me to learn more and more about both the financial markets that control America as well as develop my programming skills to translate real time trading into something that can be done by a computer
 
-Currently in the interest of learning to trade stocks first I have established a company [Coprivnicar Ventures LLC](http://coprivnicar.ventures) head over there to learn more about that.
-
 ## Renewable energy
 
 I am intersted in an Electrical Engineering degree so I can get into the renewable energy field. I would like to establish renewable energy bases as well as more sustainable methods of creating the resources required to build renewable energy sources like photovoltaic cells and the like.
