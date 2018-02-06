@@ -4,7 +4,7 @@ Hello, my name is Gage Coprivnicar, I am a student at Colorado School of Mines, 
 
 ## Whats This About
 
-This site acts as a showcase of what I have done and am doing related to job experience and internships, as well as programs I work on for fun. At a given time I have several projects I am working on ranging from building webservers to automated trading algorithms.
+This site acts as a showcase of what I have done and am doing related to job experience and internships, as well as programs I work on for fun. At a given time I have several projects I am working on ranging from api webservers to automated trading algorithms.
 
 ## Trading
 
@@ -14,4 +14,4 @@ As it stands now my interests in learning how to trading on the stock market, wi
 
 I am intersted in an Electrical Engineering degree so I can get into the renewable energy field. I would like to establish renewable energy bases as well as more sustainable methods of creating the resources required to build renewable energy sources like photovoltaic cells and the like.
 
-This combined with my business and programming skills has enabled me to push my understanding of a variety of practical applications\
+This combined with my business and programming skills has enabled me to push my understanding of a variety of practical applications
