@@ -33,7 +33,7 @@ I am intersted in an Computer Science degree so I can get into the renewable ene
 
 ### Blockchain Technology
 
-Since being first introduced to Bitcoin around 2015 I have been a big fan of what it stands for, decentralization and privacy. I have also learned to program decentralized applications (dapps) and how to interface with different blockchains like (Sia)[https://sia.tech/] and (Ethereum)[https://www.ethereum.org/]. In the future I would like to develop and create applications for different business to utilize this revolutionize technology.
+Since being first introduced to Bitcoin around 2015 I have been a big fan of what it stands for, decentralization and privacy. I have also learned to program decentralized applications (dapps) and how to interface with different blockchains like [Sia](https://sia.tech/) and [Ethereum](https://www.ethereum.org/). In the future I would like to develop and create applications for different business to utilize this revolutionize technology.
 
 ### Automated Trading
 
