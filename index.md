@@ -29,15 +29,15 @@ Second semester of Sophomore year at Colorado School of Mines I participated in 
 
 ### Renewable Energy
 
-I am intersted in an Computer Science degree so I can get into the renewable energy field. I would like to establish renewable energy bases as well as more sustainable methods of creating the resources required to build renewable energy sources like photovoltaic cells and the like.
+I am intersted in a Computer Science degree so I can get into the renewable energy field. I would like to establish renewable energy bases as well as more sustainable methods of creating the resources required to build renewable energy sources like photovoltaic cells and the like.
 
 ### Blockchain Technology
 
-Since being first introduced to Bitcoin around 2015 I have been a big fan of what it stands for, decentralization and privacy. I have also learned to program decentralized applications (dapps) and how to interface with different blockchains like [Sia](https://sia.tech/) and [Ethereum](https://www.ethereum.org/). In the future I would like to develop and create applications for different business to utilize this revolutionize technology.
+Since being first introduced to Bitcoin around 2015, I have been a big fan of what it stands for, decentralization and privacy. I have learned to build decentralized applications (dapps) and how to interface with different blockchains like [Sia](https://sia.tech/) and [Ethereum](https://www.ethereum.org/). In the future I would like to develop and create applications for different businesses to utilize this revolutionary technology.
 
 ### Automated Trading
 
-With blockchain technology comes the ability to have a low cost way of making some side income trading against different cryptocurrency pairs. Having done alright in this realm the logical next step is to automate this interest as a way to passively bring in income. On my github there are a lot of different iterations of automated trading programming ranging from simple price based trading to quantitative analysis. This has continuously forced development of my programming skills and knowledge.
+With blockchain technology comes the ability to have a low cost way of making some side income trading against different cryptocurrency pairs. Having done alright in this realm, the next step for me is to automate this interest as a way to passively bring in income. On my Github there are a lot of different iterations of automated trading programs ranging from simple price-based trading to quantitative analysis. This has continuously forced development of my programming skills and knowledge.
 
 ## Contact
 
