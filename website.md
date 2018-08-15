@@ -12,14 +12,17 @@ Your site will work on all platforms and devices while ensuring a secure connect
 
 ## Site Themes
 
-### [astral](coprivnicar.com/websites/astral)
+### [astral](https://coprivnicar.com/websites/astral)
 ![astral](./assets/images/astral.jpg)
 
-### [dimension](coprivnicar.com/websites/dimension)
+### [dimension](https://coprivnicar.com/websites/dimension)
 ![dimension](./assets/images/dimension.jpg)
 
-### [editorial](coprivnicar.com/websites/editorial)
+### [editorial](https://coprivnicar.com/websites/editorial)
 ![editorial](./assets/images/editorial.jpg)
+
+### [ethereal](https://coprivnicar.com/websites/ethereal)
+![ethereal](./assets/images/ethereal.jpg)
 
 
 
