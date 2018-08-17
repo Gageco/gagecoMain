@@ -10,6 +10,8 @@ With a lot of different website looks and feels you are able to customize your s
 
 Your site will work on all platforms and devices while ensuring a secure connection using https. You are also able to have blogs on your site and resumes that can be shared about your experience.
 
+If you are interested in a having a custom built site, email me at [gage@coprivnicar.com](gage@coprivnicar.com) for a quote, questions, or if you want to discuss the benefits a website.
+
 ## Site Themes
 
 ### [astral](./websites/astral)
