@@ -12,6 +12,8 @@ Your site will work on all platforms and devices while ensuring a secure connect
 
 If you are interested in a having a custom built site, email me at [gage@coprivnicar.com](mailto:gage@coprivnicar.com) for a quote, questions, or if you want to discuss the benefits a website.
 
+**Click below to check out any of the themes**
+
 ## Site Themes
 
 ### [astral](./websites/astral)
