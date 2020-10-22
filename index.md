@@ -1,6 +1,6 @@
 ## Welcome
 
-Hello, my name is Gage Coprivnicar. I am a student at Colorado School of Mines, graduation date 2020. I am majoring in Computer Science and minoring in Electrical Engineering and am interested in renewable energy and automation in possible future careers.
+Hello, my name is Gage Coprivnicar. I am a student at Boise State University, graduation date 2022. I am majoring in  Electrical Engineering and am interested in renewable energy and automation in possible future careers.
 
 ## Technical Skills
 
@@ -8,10 +8,10 @@ Hello, my name is Gage Coprivnicar. I am a student at Colorado School of Mines, 
 
 #### Programming Languages
 
-I have five to six years of practical programming experience both inside and outside the classroom. I am able to write programs in a variety of languages including Python, Golang, Javascript, HTLM/CSS, Solidity, C++, C.
+I have eight years of practical programming experience both inside and outside the classroom. I am able to write programs in a variety of languages including Python, Go, Javascript, Java, C++, C,  as well as  HTLM/CSS and Solidity, though not quite programming languages.
 
 #### Software Experience
-I am able to put together webservers, REST APIs, automated systems, and embedded system applications. Examples of these are all showcased in various forms on my [Github](https://github.com/gageco).
+I am able to put together webservers, REST APIs, automated systems, and embedded system applications and machine learning. Examples of these are showcased in various forms on my [Github](https://github.com/gageco).
 
 I also have my Associates in Solidworks and have AutoCAD and other 3D modeling software experience.
 
@@ -19,7 +19,12 @@ I also have my Associates in Solidworks and have AutoCAD and other 3D modeling s
 
 ### ECCO Safety Group
 
-I had a summer internship at [ECCO Safety Group](https://www.eccosafetygroup.com/) in 2017 where I programmed and assisted in designing a Light Engine Testing Module for more efficent testing of the lights. Through this I learned to use the automobile communication standard CAN, Controller Area Network. I also learned basic electronic design, assembly and troubleshooting.
+At ECCO Safety Group, based in Boise ID, I was tasked with designing and programming a light engine
+tester. This assisted me in understanding how the automobile standard Control Area Network (CAN)
+communication works. I used an Arduino with a CAN attachment to send and receive signals to and from the CAN bus. [ECCO Safety Group](https://www.eccosafetygroup.com/)
+
+### Royal Jay
+Royal Jay is a healthcare software company based in Boise ID. I was tasked with looking into the feasibility of Machine Learning in their software applications. This was done using anonymized test data set where I ran different regressions to see what fit the best and could be used to most effectively predict healthcare outcomes. This has resulted in a division of their business being focused on machine learning applications in healthcare. [Royal Jay](https://royaljay.com/)
 
 ### Mines Entrepreneurship and Innovation Challenge
 
@@ -29,15 +34,11 @@ Second semester of Sophomore year at Colorado School of Mines I participated in 
 
 ### Renewable Energy
 
-I am intersted in a Computer Science degree so I can get into the renewable energy field. I would like to establish renewable energy bases as well as more sustainable methods of creating the resources required to build renewable energy sources like photovoltaic cells and the like.
+I am intersted in an Electrical Engineering degree so I can get into the renewable energy field. I would like to establish renewable energy bases as well as more sustainable methods of creating the resources required to build renewable energy sources like photovoltaic cells and the like.
 
-### Blockchain Technology
+### Automation and Robotics
 
-Since being first introduced to Bitcoin around 2015, I have been a big fan of what it stands for, decentralization and privacy. I have learned to build decentralized applications (dapps) and how to interface with different blockchains like [Sia](https://sia.tech/) and [Ethereum](https://www.ethereum.org/). In the future I would like to develop and create applications for different businesses to utilize this revolutionary technology.
-
-### Automated Trading
-
-With blockchain technology comes the ability to have a low cost way of making some side income trading against different cryptocurrency pairs. Having done alright in this realm, the next step for me is to automate this interest as a way to passively bring in income. On my Github there are a lot of different iterations of automated trading programs ranging from simple price-based trading to quantitative analysis. This has continuously forced development of my programming skills and knowledge.
+As robotics and automation takes over the work field, it becomes more important to have a way of ensuring I am relevant in my field. Being the person that creates the machines, and having the ability to create machines to accomplish tasks on a high level. I enjoy seeing how self-driving cars, and every day tasks are simplified and imagining a future where I am involved in that field is exciting.
 
 ## Contact
 
