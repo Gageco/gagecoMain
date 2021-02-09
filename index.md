@@ -8,7 +8,7 @@ Hello, my name is Gage Coprivnicar. I am a student at Boise State University, gr
 
 #### Programming Languages
 
-I have eight years of practical programming experience both inside and outside the classroom. I am able to write programs in a variety of languages including Python, Go, Javascript, Java, C++, C,  as well as  HTLM/CSS and Solidity, though not quite programming languages.
+I have seven years of practical programming experience both inside and outside the classroom. I am able to write programs in a variety of languages including Python, Go, Javascript, Java, C++, C,  as well as  HTLM/CSS and Solidity. I also have used Raspberry Pi's and Arduino's extensively for personal and professional projects.
 
 #### Software Experience
 I am able to put together webservers, REST APIs, automated systems, and embedded system applications and machine learning. Examples of these are showcased in various forms on my [Github](https://github.com/gageco).
@@ -20,15 +20,14 @@ I also have my Associates in Solidworks and have AutoCAD and other 3D modeling s
 ### ECCO Safety Group
 
 At ECCO Safety Group, based in Boise ID, I was tasked with designing and programming a light engine
-tester. This assisted me in understanding how the automobile standard Control Area Network (CAN)
-communication works. I used an Arduino with a CAN attachment to send and receive signals to and from the CAN bus. [ECCO Safety Group](https://www.eccosafetygroup.com/)
+tester. This assisted me in understanding how the automobile standard Control Area Network (CAN) communication works. I used an Arduino with a CAN attachment to send and receive signals to and from the CAN bus [ECCO Safety Group](https://www.eccosafetygroup.com/)
 
 ### Royal Jay
-Royal Jay is a healthcare software company based in Boise ID. I was tasked with looking into the feasibility of Machine Learning in their software applications. This was done using anonymized test data set where I ran different regressions to see what fit the best and could be used to most effectively predict healthcare outcomes. This has resulted in a division of their business being focused on machine learning applications in healthcare. [Royal Jay](https://royaljay.com/)
+Royal Jay is a healthcare software company based in Boise ID. I was tasked with looking into the feasibility of Machine Learning in their software applications. This was done using anonymized test data set where I ran different regressions to see what fit the best and could be used to most effectively predict healthcare outcomes. This has resulted in a division of their business being focused on machine learning applications in healthcare.[Royal Jay](https://royaljay.com/)
 
 ### Mines Entrepreneurship and Innovation Challenge
 
-Second semester of Sophomore year at Colorado School of Mines I participated in an entrepreneurship challenge where my team was tasked with improving the efficiency of mining operations for Newmont Mining Company. This project was a challenge as no individual in my team had mining experience or were mining engineers. As a Computer Science major, I worked with my team to research and develop a techology that a mining company would find useful. In the end, we decided on using blockchain technology to improve inter-company file storage which, according to a 2018 [Ernst & Young report](http://www.ey.com/Publication/vwLUAssets/ey-top-10-business-risks-facing-mining-and-metals-2017-2018/$FILE/ey-top-10-business-risks-facing-mining-and-metals-2017-2018.pdf), was the number one issue facing mining companies.
+At Colorado School of Mines I participated in an entrepreneurship challenge where my team was tasked with improving the efficiency of mining operations for the Newmont Mining Company. This project was a challenge as no individual in my team had mining experience or were mining engineers. As an Electrical Engineering major, I worked with my team to research and develop a technology that a mining company would find useful. In the end, we decided on using blockchain technology to improve inter-company file storage which, according to a 2018 [Ernst & Young report](http://www.ey.com/Publication/vwLUAssets/ey-top-10-business-risks-facing-mining-and-metals-2017-2018/$FILE/ey-top-10-business-risks-facing-mining-and-metals-2017-2018.pdf), was the number one issue facing mining companies. Some of the code can be viewed on [Github here](https://github.com/Gageco/Newmont)
 
 ## Personal Interests
 
