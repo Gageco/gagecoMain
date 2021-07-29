@@ -10,29 +10,29 @@ Woke to a bunch of people in cars again, this time not at a school just tourists
 
 Skogafoss Waterfall had a really long hike to the top, and after a lot of huffing and puffing I made it to the top! Got some pictures and ended up grabbing a burger at a place near by which was really good, and I ended up staying for a few hours to charge up my computer and phone and use the free WiFi they had. Felt a little bad hanging out for so long, but no one seemed to mind, and it gave me an opportunity to download my class videos and get ready for attending class tonight.
 
-![Skogafoss_Waterfall](https://blog.coprivnicar.com/images/Day03/Skogafoss_Waterfall.jpg)
+![Skogafoss_Waterfall](https://coprivnicar.com/images/Iceland/Day03/Skogafoss_Waterfall.jpg){:width="100%"}
 
-![Me_At_Skogafoss](https://blog.coprivnicar.com/images/Day03/Me_At_Skogafoss.jpg)
+![Me_At_Skogafoss](https://coprivnicar.com/images/Iceland/Day03/Me_At_Skogafoss.jpg){:width="100%"}
 
 ## Blacksand Beach
 
 Blacksand Beach, in Vik Iceland is a beach made entirely of broken down Volcanic Sand, really beautiful. I also picked up some food for PB&J's for a few days, and a new wool hat and scarf!
 
-![Blacksand_Sign](https://blog.coprivnicar.com/images/Day03/Blacksand_Sign.jpg)
+![Blacksand_Sign](https://coprivnicar.com/images/Iceland/Day03/Blacksand_Sign.jpg){:width="100%"}
 
-![Blacksand_Beach](https://blog.coprivnicar.com/images/Day03/Blacksand_Beach.jpg)
+![Blacksand_Beach](https://coprivnicar.com/images/Iceland/Day03/Blacksand_Beach.jpg){:width="100%"}
 
-![New_Hat_Scarf](https://blog.coprivnicar.com/images/Day03/New_Hat_Scarf.jpg)
+![New_Hat_Scarf](https://coprivnicar.com/images/Iceland/Day03/New_Hat_Scarf.jpg){:width="100%"}
 
 ## My Campsite and other Pictures
 
 Not much to see at my campsite tonight at Skaftafell. It's mostly fogged over right now, but it's near Glaciar Lagoon, so hopefully that'll clear up tomorrow and I can hike there!
 
-![Skaftafell](https://blog.coprivnicar.com/images/Day03/Skaftafell.jpg)
+![Skaftafell](https://coprivnicar.com/images/Iceland/Day03/Skaftafell.jpg){:width="100%"}
 
 Here are some little waterfalls I saw on the drive to Skaftafell.
 
-![Little_Waterfalls](https://blog.coprivnicar.com/images/Day03/Little_Waterfalls.jpg)
+![Little_Waterfalls](https://coprivnicar.com/images/Iceland/Day03/Little_Waterfalls.jpg){:width="100%"}
 
 ## My Itinerary
 

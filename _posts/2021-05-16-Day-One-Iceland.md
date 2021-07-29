@@ -18,12 +18,12 @@ When I traveled alone to Alaska, after exiting the plane, I felt incredibly over
 
 It was around noon when I got my car, a little four door car with an *S* brand I don't recognize, and when I got in, that's when I started feeling anxious. What was I going to do, where was I going to go? After spending 10 minutes trying to figure out how to fuel up the car, I just started driving towards Reykjavik. After 20-30 minutes I saw an ikea and figured I'd pull over there as my first stop in Iceland.
 
-![My Car](https://blog.coprivnicar.com/images/Day01/My_Car.jpg)
+![My Car](https://coprivnicar.com/images/Iceland/Day01/My_Car.jpg){:width="100%"}
 
 
 ## IKEA
 
-![IKEA](https://blog.coprivnicar.com/images/Day01/Me_At_Ikea.jpg)
+![IKEA](https://coprivnicar.com/images/Iceland/Day01/Me_At_Ikea.jpg){:width="100%"}
 
 IKEA is such an international business that it was actually kind of nice to get lost there for a little bit, I hustled around, found the (very nice) bathrooms, and grabbed a $1 hotdog that was about as good as it sounds.
 
@@ -37,13 +37,13 @@ This place was pretty neat, lot of fishing and boat history, not my usual scene 
 
 There were also a few dry docked ships that I got the chance to get close to!
 
-![Maritime Museum](https://blog.coprivnicar.com/images/Day01/Maritime_Museum.jpg)
+![Maritime Museum](https://coprivnicar.com/images/Iceland/Day01/Maritime_Museum.jpg){:width="100%"}
 
-![The Heimaey](https://blog.coprivnicar.com/images/Day01/Heimaey.jpg)
+![The Heimaey](https://coprivnicar.com/images/Iceland/Day01/Heimaey.jpg){:width="100%"}
 
 ## The Campsite
 
-![The Camp Day 1](https://blog.coprivnicar.com/images/Day01/The_Camp_Day01.jpg)
+![The Camp Day 1](https://coprivnicar.com/images/Iceland/Day01/The_Camp_Day01.jpg){:width="100%"}
 
 
 After spending an hour or so at the Maritime Museum, I decided to drive to my campsite to the night. I found it empty, and I was the only one. This was a little spooky initially so I spent some time sitting in the car and reading to get mentally prepared for anyone I might encounter.
@@ -58,4 +58,4 @@ Also really enjoying Andy Weirs new book *Project Hail Mary* is really good.
 
 ## Day 1 Sunset
 
-![The Sunset Day 1](https://blog.coprivnicar.com/images/Day01/Sunset_Day01.jpg)
+![The Sunset Day 1](https://coprivnicar.com/images/Iceland/Day01/Sunset_Day01.jpg){:width="100%"}

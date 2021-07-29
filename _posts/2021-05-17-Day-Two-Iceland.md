@@ -16,9 +16,8 @@ About an hour and a half drive from my first stop, I spent the majority of the d
 
 ![Geyser01](https://coprivnicar.com/images/Iceland/Day02/Geyser01.jpg){:width="100%"}
 
-<!-- ![Geyser01](https://blog.coprivnicar.com/images/Day02/Geyser01.jpg) -->
 
-![Me At Geyser](https://blog.coprivnicar.com/images/Day02/Me_At_Geyser.jpg)
+![Me At Geyser](https://coprivnicar.com/images/Iceland/Day02/Me_At_Geyser.jpg){:width="100%"}
 
 The guy who took this picture is named Robert and he was from Texas, and we chatted about about our trips so far, he is leaving this Wednesday, and pointed me towards Vik, and the Black Sand Beach there. Where I am planning to go tomorrow!
 
@@ -26,25 +25,25 @@ The guy who took this picture is named Robert and he was from Texas, and we chat
 
 This was a quick stop, it was beautiful, but there weren't any special hikes but it was a beautiful site.
 
-![Gullfoss_Waterfall.jpg](https://blog.coprivnicar.com/images/Day02/Gullfoss_Waterfall.jpg)
+![Gullfoss_Waterfall.jpg](Gullfoss_Waterfall.jpg){:width="100%"}
 
 ## Campsite
 
 I drove another hour and a half near Vik, and found a campsite with a beautiful waterfall where I hiked around exploring, and decided to sleep in the car again as it was pretty comfortable last time.
 
-![Campsite.jpg](https://blog.coprivnicar.com/images/Day02/Campsite.jpg)
+![Campsite.jpg](https://coprivnicar.com/images/Iceland/Day02/Campsite.jpg){:width="100%"}
 
-![Me_At_Waterfall.jpg](https://blog.coprivnicar.com/images/Day02/Me_At_Waterfall.jpg)
+![Me_At_Waterfall.jpg](https://coprivnicar.com/images/Iceland/Day02/Me_At_Waterfall.jpg){:width="100%"}
 
 ## The Sunset & Birds
 
-![Bird01](https://blog.coprivnicar.com/images/Day02/Bird01.jpg)
+![Bird01](https://coprivnicar.com/images/Iceland/Day02/Bird01.jpg){:width="100%"}
 
-![Bird02](https://blog.coprivnicar.com/images/Day02/Bird02.jpg)
+![Bird02](https://coprivnicar.com/images/Iceland/Day02/Bird02.jpg){:width="100%"}
 
-![Bird03](https://blog.coprivnicar.com/images/Day02/Bird03.jpg)
+![Bird03](https://coprivnicar.com/images/Iceland/Day02/Bird03.jpg){:width="100%"}
 
-![Sunset](https://blog.coprivnicar.com/images/Day02/Sunset.jpg)
+![Sunset](https://coprivnicar.com/images/Iceland/Day02/Sunset.jpg){:width="100%"}
 
 ## Tomorrow
 Tomorrow I think will end up being a driving day after some walking around Vik, and it's my first day of class in Iceland, so we'll see how it goes!

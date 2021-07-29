@@ -8,7 +8,7 @@ For dinner, when staying at the 66.12N campsite on the coast, the California's I
 
 Later that night, (or 1am this morning) I was spending time with the California's and a couple from Germany. The German's bought around 2lbs of horse meat for ~$8, and was cooking it on a disposable charcoal grill. I thought it was going to be raw by how little the charcoal was burning, but it worked! I had a few pieces of charcoal cooked horse, on an Iceland shore! It wasn't great, and he ended up eating about 1.5lbs of horse meat by himself. It was a great time, just hanging around and talking, and we ended up deciding to clamber down a rocky shore, so we can say we touched the Arctic Sea! (I don't know if it's actually the Arctic Sea, but I'm going to pretend). Here's a picture of us all, right on the coast!
 
-![Some_Friends](https://blog.coprivnicar.com/images/Day06/Some_Friends.png)
+![Some_Friends](https://coprivnicar.com/images/Iceland/Day06/Some_Friends.png){:width="100%"}
 
 *Left to Right: Me, Neil, Jaine, Ashmir & Daniel*
 *Jaine & Ashmir are the Germans, Neil & Daniel are the California's*
@@ -23,17 +23,17 @@ I split from there to Asbrygi with another gentleman I had met the previous nigh
 
 After making our way out from there, we found the correct hike and did part of the hike, to see the view and go from there.
 
-![Asbrygi_Lake](https://blog.coprivnicar.com/images/Day06/Asbrygi_Lake.JPG)
+![Asbrygi_Lake](https://coprivnicar.com/images/Iceland/Day06/Asbrygi_Lake.JPG){:width="100%"}
 
-![Me_At_Asbrygi](https://blog.coprivnicar.com/images/Day06/Me_At_Asbrygi.jpg)
+![Me_At_Asbrygi](https://coprivnicar.com/images/Iceland/Day06/Me_At_Asbrygi.jpg){:width="100%"}
 
 We went our own ways from there, but ended up meeting up again at the Godafoss Waterfalls again coincidentally, so we walked around there again, and once again, went our separate ways once again!
 
 From there, I drove another few hours through Akureyri, considered the Capital of North Iceland, and to my campsite for the night. There were some beautiful mountains on the way over and reduced my trip to Reykjavik down to 3.5hrs.
 
-![Highway_View](https://blog.coprivnicar.com/images/Day06/Highway_View.jpg)
+![Highway_View](https://coprivnicar.com/images/Iceland/Day06/Highway_View.jpg){:width="100%"}
 
-![Campsite_Day06](https://blog.coprivnicar.com/images/Day06/Campsite_Day06.jpg)
+![Campsite_Day06](https://coprivnicar.com/images/Iceland/Day06/Campsite_Day06.jpg){:width="100%"}
 
 At the campsite, I settled down, set up a COVID test in Reykjavik for my flight back to the US, and am headed to bed!
 
@@ -49,6 +49,6 @@ I guess it probably saves money, and there isn't a huge traffic issue here, but 
 
 ## Obligatory Bird Pics
 
-![Bird01](https://blog.coprivnicar.com/images/Day06/Bird01.JPG)
+![Bird01](https://coprivnicar.com/images/Iceland/Day06/Bird01.JPG){:width="100%"}
 
-![Bird02](https://blog.coprivnicar.com/images/Day06/Bird02.JPG)
+![Bird02](https://coprivnicar.com/images/Iceland/Day06/Bird02.JPG){:width="100%"}
