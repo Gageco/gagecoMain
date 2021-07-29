@@ -14,6 +14,8 @@ Woke up to a bunch of cars outside of mine, my hunch that I was at a school was 
 
 About an hour and a half drive from my first stop, I spent the majority of the day here wandering around and hiking around the different geysers. The big one I have a video of going off on my Instagram, and some photos I have I'll attach below.
 
+![image-title-here](http://coprivnicar.com/images/Day02/Geyser01.jpg){:class="img-responsive"}
+
 ![Geyser01](https://blog.coprivnicar.com/images/Day02/Geyser01.jpg)
 
 ![Me At Geyser](https://blog.coprivnicar.com/images/Day02/Me_At_Geyser.jpg)
