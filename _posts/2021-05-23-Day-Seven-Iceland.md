@@ -10,7 +10,7 @@ I am writing this day eight because I ended up staying awake till 4am having spe
 
 Woke up early so I could head to Reykjavik to get a COVID test to prepare my flight back to the US. Came back negative of course, cause I'm vaxxed, but the US is still requiring that even if your vaccinated for some reason. I made some plans with the German couple to meet at the Volcano later that day, and I had the afternoon in Reykjavik!
 
-I parked near the Maritime Museum where I visited [Day One](https://blog.coprivnicar.com/travel/2021/05/16/Day-One-Iceland.html) and started walking to get myself a classic Icelandic Hotdog!
+I parked near the Maritime Museum where I visited [Day One](https://www.coprivnicar.com/blog/Day-One-Iceland/) and started walking to get myself a classic Icelandic Hotdog!
 
 ![Icelandic_Hotdog](https://coprivnicar.com/images/Iceland/Day07/Icelandic_Hotdog.jpg){:width="100%"}
 
