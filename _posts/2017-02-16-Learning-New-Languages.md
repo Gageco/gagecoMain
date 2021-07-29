@@ -4,8 +4,6 @@ title:  "Learning New Languages"
 categories: blog personal
 ---
 
-## Learning New Languages
-
 So with this new semester at Colorado School of Mines I have started taking my first official Programming Class, pretty exciting, it is in C++ which from the research I have done sounds more useful and practical than python because of more chances of optimization and better multithreading.
 
 ## Use

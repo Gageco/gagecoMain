@@ -4,8 +4,6 @@ title:  "ECCO Internship"
 categories: blog personal
 ---
 
-## ECCO Internship
-
 [ECCO Safety Group](http://www.eccosafetygroup.com/) (ESG) is a global company that designs and manufactures safety equipment for a large array of vehicles, the core business of the company is manufacturing and exporting Backup Alarms and Light Bars. They are based out of Boise Idaho (conveniently enough where I live) but have bases everywhere from the UK to Australia.
 
 ## Background
