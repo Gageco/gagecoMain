@@ -4,7 +4,7 @@ title:  "cryptotrader"
 categories: blog projects
 ---
 
-# cryptotrader
+## cryptotrader
 
 So this is my newest most developed project and I super hope it works out. What cryptotrader does effectively is look at the price of different cryptocurrencies over the period of an hour and decides whether to buy or sell them accordingly. It is based on the [Bitfinex](bitfinex.com) api and can trade any cryptocurrency they have on there platform (I havent tested this, im just pretty sure its true). Im super stoked for this because if it works out that means that I will have a way of passively making money to buy coffee and other drinks with occasionally, or as i say 'coffee money' (definition: not a lot of money but a $1-2 a day, enough to buy a coffee).
 
