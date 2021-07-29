@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Andor Records
-description: About Andor Records
+title: About
+description: About Me
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
