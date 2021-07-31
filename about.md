@@ -31,6 +31,10 @@ The summer of 2018, following my internship at ECCO, I took an internship at Roy
 
 While I was interning their, I was tasked with finding applications for machine learning in determining healthcare outcomes. I was given anonymized data, and using Microsoft Azure Machine Learning software I ran different regressions to find what trends I could. In the end I gave a presentation showing the outcomes of the research and regressions and discussed potential applications of my findings.
 
+### Programming
+
+I am also a capable programmer, with a variety of languages, with various applications at my disposal.
+
 <!-- <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span> -->
 <!-- <div class="box">
   <p>
