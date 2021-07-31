@@ -14,7 +14,8 @@ sitemap:
 I live in Boise ID and in my free time enjoy rafting, making music, and working on my hydroponic garden.
 
 I started going to Boise State University full-time in 2020, and am pursuing a degree in Electrical Engineering. I have a lot of experience with programming, and have had a few different internships where I was tasked with research and development for different projects, at ECCO and Royal Jay.
-
+<br></br>
+<br></br>
 
 ### Internships
 
