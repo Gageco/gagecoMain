@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Artists
-description: Artists of Andor Records
+title: Personal Project
+description: A Collection of my Personal Project
 sitemap:
     priority: 0.7
-    lastmod: 2020-1-08
+    lastmod: 2021-07-31
     changefreq: weekly
 ---
 ## Analog Dither
