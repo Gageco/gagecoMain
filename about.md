@@ -16,18 +16,21 @@ I live in Boise ID and in my free time enjoy rafting, making music, and working 
 I started going to Boise State University full-time in 2020, and am pursuing a degree in Electrical Engineering. I have a lot of experience with programming, and have had a few different internships where I was tasked with research and development for different projects, at ECCO and Royal Jay.
 
 
-### Why Andor Records
+### Internships
 
-While small the locality and the personalized assistance you will get from Andor Records will allow you to get the best experience that you can get. We can have face to face meetings or phones calls about what you need and you will always be able to contact us.
+[**ECCO Safety Group**](https://www.eccosafetygroup.com/)
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+I had an internship at ECCO in 2017 where I worked on developing a light tester for the hardware they built. Using an Arduino and a CAN Shield automobile interface. In working with this hardware I found an error in the [CAN Shield code by Seeed Studio](https://github.com/Seeed-Studio/Seeed_Arduino_CAN/) and fixed an rtr bit issue, getting my [first pull request accepted](https://github.com/Seeed-Studio/Seeed_Arduino_CAN/pull/46) into the official codebase!
 
-We do not use a one-measure fits all approach to working with our labels as we know each group has its own vibe and aesthetic so we work with the individuals to figure out what that is and how to reach the people that will appreciate it most. By doing this you maximize your fan base and fan devotion while keeping true to you.
+[**Royal Jay**](https://royaljay.com/)
 
-<div class="box">
+The summer of 2018, following my internship at ECCO, I took an internship at Royal Jay, also local to Boise, Idaho. When I was working there, they were focused on healthcare software to aid in the simplification of healthcare in Idaho and the US more generally.
+
+While I was interning their, I was tasked with finding applications for machine learning in determining healthcare outcomes. I was given anonymized data, and using Microsoft Azure Machine Learning software I ran different regressions to find what trends I could. In the end I gave a presentation showing the outcomes of the research and regressions and discussed potential applications of my findings.
+
+<!-- <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span> -->
+<!-- <div class="box">
   <p>
   In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
   </p>
-</div>
-
-We are working on developing our social media presence to make sure that people know when you release a new album or single and you can share the process and develop a following of fans.
+</div> -->
