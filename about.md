@@ -4,7 +4,7 @@ title: About
 description: About Me
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2021-07-31
     changefreq: weekly
 ---
 ## About Me
@@ -33,8 +33,18 @@ While I was interning there, I was tasked with finding applications for machine 
 
 ### Programming
 
-I am also a capable programmer, with a variety of languages, with various applications at my disposal.
+I am also a capable programmer, with a variety of languages, with various applications at my disposal. I have experience using REST API's and writing web servers. I have written firmware for testing purposes, and have machine learning experience that allows me to accomplish nearly any task given to me.
 
+I know the following languages
+- Python
+- Go
+- Java
+- C++
+- C
+- Javascript
+
+
+Python and Go being my *go* to languages for web servers and REST applications, as well as back end uses such as with a Raspberry Pi.
 <!-- <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span> -->
 <!-- <div class="box">
   <p>
