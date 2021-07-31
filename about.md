@@ -43,11 +43,6 @@ I know the following languages
 - C
 - Javascript
 
-
 Python and Go being my *go* to languages for web servers and REST applications, as well as back end uses such as with a Raspberry Pi.
-<!-- <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span> -->
-<!-- <div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div> -->
+
+An example of my programming ability can be found [here on Github](https://github.com/Gageco/Newmont). This is a project I wrote for a project challenge, I and a group of friends did at Colorado School of Mines. There are three different programs using three different languages, that use Google Cloud Platform (GCP) as the go between to create a website that displays a live temperature reading from Raspberry Pi.
