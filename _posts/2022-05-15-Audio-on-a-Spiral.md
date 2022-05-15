@@ -24,17 +24,17 @@ I have never made a Matlab App before, but it is fairly easy! Matlab App GUI ins
 
 A few tests I did, came out interesting! First was playing an F and C chord on the OP-1 and importing that into the program to see what came out. You can see that the F-Chord is much less wavy then the C-Chord, which I believe is a result of the varying loudness that can be heard in the files which I linked below the images.
 
-![F_Chord](https://github.com/Gageco/Audio-Spiral/blob/main/Images/F-Chord.png){:width="50%"}
+![F_Chord](https://github.com/Gageco/Audio-Spiral/blob/422ca61b1cf0008aaf7d8ad7f8b251b067c88b4b/Images/F-Chord.png){:width="50%"}
 *F Chord*
 [F Chord Audio](https://github.com/Gageco/Audio-Spiral/blob/main/Images/F-OP1.mp3)
 
-![C_Chord](https://github.com/Gageco/Audio-Spiral/blob/main/Images/C-Chord.png){:width="50%"}
+![C_Chord](https://github.com/Gageco/Audio-Spiral/blob/422ca61b1cf0008aaf7d8ad7f8b251b067c88b4b/Images/C-Chord.png){:width="50%"}
 *C Chord*
 [C Chord Audio](https://github.com/Gageco/Audio-Spiral/blob/main/Images/C-OP1.mp3)
 
 These were really neat looking, and I'm very happy about how they came out. Next I tried plotting a voicemail I got, which also ended up very nicely, so I decided to plot it using my Axidraw.
 
-![Voicemail](https://github.com/Gageco/Audio-Spiral/blob/main/Images/Voicemail.png){:width="50%"}
+![Voicemail](https://github.com/Gageco/Audio-Spiral/blob/422ca61b1cf0008aaf7d8ad7f8b251b067c88b4b/Images/Voicemail.png){:width="50%"}
 
 ![Frame_01](https://coprivnicar.com/images/misc/Axidraw_Audio_Spiral.jpg){:width="50%"}
 
