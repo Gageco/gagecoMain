@@ -24,7 +24,7 @@ I have never made a Matlab App before, but it is fairly easy! Matlab App GUI ins
 
 A few tests I did, came out interesting! First was playing an F and C chord on the OP-1 and importing that into the program to see what came out. You can see that the F-Chord is much less wavy then the C-Chord, which I believe is a result of the varying loudness that can be heard in the files which I linked below the images.
 
-![F_Chord](https://raw.githubusercontent.com/Gageco/Audio-Spiral/main/Images/C-Chord.png){:width="50%"}
+![F_Chord](https://raw.githubusercontent.com/Gageco/Audio-Spiral/main/Images/F-Chord.png){:width="50%"}
 
 *F Chord*
 
