@@ -11,7 +11,7 @@ My experience working at Idaho Power in the summer of 2022!
 
 This summer I had the opportunity to work at the power company for much of the Boise area, Idaho Power. The opportunity to work at Idaho Power was unexpected to say the least, as it is  a coveted internship and I have only had a single power class in my time at BSU, so my practical and mathematical understanding of power at the time was limited to say the least.
 
-![](https://github.com/Gageco/gagecoMain/blob/master/images/IPCO/IPCO-Day-3.jpg?raw=true){:width="50%"}
+![](){:width="50%"}
 
  During my first interview, at one point I forgot how to calculate power, and had to ask if I could use my notes from my Renewable Power class, definitely a little embarrassing. Many of the other questions were about topics I didn't have a lot of knowledge to answer well, so I found myself giving it my best shot, but ultimately telling them I don't know how to calculate that. All to say, I didn't expect to get a second interview.
 
