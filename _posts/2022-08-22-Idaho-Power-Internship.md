@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Summer 2022 Idaho Power Internship"
+title:  "Idaho Power Internship"
 categories: blog personal
 ---
 
