@@ -1,12 +1,7 @@
 ---
 layout: post
-title:  "Idaho Power Internship"
-categories: blog
+title:  "Audio On A"
+categories: blog projects
 ---
 
-My experience working at Idaho Power in the summer of 2022!
-
-# Test1
-tests
-
-## Test2
+Test
