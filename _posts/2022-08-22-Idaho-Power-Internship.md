@@ -6,4 +6,4 @@ categories: blog
 
 My experience working at Idaho Power in the summer of 2022!
 
-This summer I had the opportunity to work at the power company for much of the Boise area, Idaho Power. The opportunity to work at Idaho Power was unexpected to say the least, as it is  a coveted internship and I have only had a single power class in my time at BSU, so my practical and mathematical understanding of power at the time was limited to say the least.
+## Test
