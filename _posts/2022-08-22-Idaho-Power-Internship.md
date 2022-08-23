@@ -4,10 +4,11 @@ title:  "Idaho Power Internship"
 categories: blog personal
 ---
 
-MY experience working at Idaho Power in the summer of 2022!
+My experience working at Idaho Power in the summer of 2022!
 
 
 ## The Internship
+
 This summer I had the opportunity to work at the power company for much of the Boise area, Idaho Power. The opportunity to work at Idaho Power was unexpected to say the least, as it is  a coveted internship and I have only had a single power class in my time at BSU, so my practical and mathematical understanding of power at the time was limited to say the least.
 
 ![](https://github.com/Gageco/gagecoMain/blob/master/images/IPCO/IPCO-Day-3.jpg?raw=true){:width="50%"}
@@ -21,6 +22,8 @@ I actually have an EV myself, a 2012 Nissan Leaf that can get around ~30 miles @
 When I first learned I was working with the Methods & Materials (M&M) department I was very confused, as I am not a materials engineer, and the name made it sound like I was going to be doing material work. However, the M&M department at Idaho Power, would be what is considered the standards department anywhere else. The group I worked for is in charge of setting and evaluating the standards and methods that the Company uses to build and evaluate much of the power infrastructure, and determine the materials that will be used.
 
 One interesting facet of working in the Methods & Materials department is that with the global material shortage, the M&M department was responsible for finding replacements and fixing materials failures. I had the chance to learn how IPCO dealt with material failures and saw how difficult it can be to maintain the amount of growth that Idaho is experiencing while being short of the materials necessary for electrification. On a few occasions I went out with my mentor and followed different crews around who were installing the cabling to new housing developments, and got to visually trace how the dense residential areas are laid out to allow for all of them to get power.
+
+## My Project
 
 My summer project at Idaho Power was generally to look at how EV's and their adoption over time would impact the electric grids loading on a residential level. To do this my first task was to understand and figure out how to collate data gathered via Idaho Power's Automated Metering System (AMI) that all residential dwellings have attached. These AMI meters I find really interesting, they actually send data by short circuiting the AC power signal at the zero crossing to send a binary coded signal. Because the power oscillates at 60Hz the signal sent takes a while to send and receive, but it's an effective and low cost solution.
 
