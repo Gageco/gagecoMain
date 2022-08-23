@@ -6,13 +6,13 @@ categories: blog personal
 
 This summer I had the opportunity to work at the power company for much of the Boise area, Idaho Power. The opportunity to work at Idaho Power was unexpected to say the least, as it is  a coveted internship and I have only had a single power class in my time at BSU, so my practical and mathematical understanding of power at the time was limited to say the least.
 
-![](./IPCO-Internship/IPCO-Day-3.jpg){:width="50%"}
+![](https://github.com/Gageco/gagecoMain/blob/master/images/IPCO/IPCO-Day-3.jpg?raw=true){:width="50%"}
 
  During my first interview, at one point I forgot how to calculate power, and had to ask if I could use my notes from my Renewable Power class, definitely a little embarrassing. Many of the other questions were about topics I didn't have a lot of knowledge to answer well, so I found myself giving it my best shot, but ultimately telling them I don't know how to calculate that. All to say, I didn't expect to get a second interview.
 
 I did get a second interview thankfully, in which I was asked about different scenarios and how I would react. Situations like, how would you work with a coworker who is obstinate, how have you in the past resolved conflicts, etc. One question that stuck out to me was how I see Idaho Power adapting to big changes in power loads and generation, such as Electric Vehicles, (EVs) and the push for renewable energy. My answer was long but I recall mentioning how renewable energy sources often are unstable, and EVs draw a massive amount of power, a difficult combination.
 
-I actually have an EV myself, a 2012 Nissan Leaf that can get around ~30 miles @80% charge, ~35 miles @100%, so my understanding of the pros and cons are visceral for me. As a result I had done a bunch of research on the chargers and different types of EVs to figure out what would work best for me. When I mentioned this, a few other questions came up, and ultimately the biggest summer project was related to EV's.
+I actually have an EV myself, a 2012 Nissan Leaf that can get around ~30 miles @ 80% charge, ~35 miles @ 100%, so my understanding of the pros and cons are visceral for me. As a result I had done a bunch of research on the chargers and different types of EVs to figure out what would work best for me. When I mentioned this, a few other questions came up, and ultimately the biggest summer project was related to EV's.
 
 When I first learned I was working with the Methods & Materials (M&M) department I was very confused, as I am not a materials engineer, and the name made it sound like I was going to be doing material work. However, the M&M department at Idaho Power, would be what is considered the standards department anywhere else. The group I worked for is in charge of setting and evaluating the standards and methods that the Company uses to build and evaluate much of the power infrastructure, and determine the materials that will be used.
 
