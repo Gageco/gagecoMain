@@ -11,7 +11,7 @@ My experience working at Idaho Power in the summer of 2022!
 
 This summer I had the opportunity to work at the power company for much of the Boise area, Idaho Power. The opportunity to work at Idaho Power was unexpected to say the least, as it is  a coveted internship and I have only had a single power class in my time at BSU, so my practical and mathematical understanding of power at the time was limited to say the least.
 
-![](){:width="50%"}
+![Cabin](https://github.com/Gageco/gagecoMain/blob/master/images/IPCO/Cabin.jpg?raw=true){:width="50%"}
 
  During my first interview, at one point I forgot how to calculate power, and had to ask if I could use my notes from my Renewable Power class, definitely a little embarrassing. Many of the other questions were about topics I didn't have a lot of knowledge to answer well, so I found myself giving it my best shot, but ultimately telling them I don't know how to calculate that. All to say, I didn't expect to get a second interview.
 
@@ -49,10 +49,10 @@ The power loss calculator I developed was to ensure that the loss power values t
 
 My time at Idaho Power was amazing, I had the opportunity to visit a few of the dams, Hells Canyon dam where me and the other interns had the chance to get on a jet boat and go up and down the river, then the next week Swan Falls dam, where we had the chance to go down near the actual dam turbines, which was amazing. Many other field trips inbetween up the internship nicely. One of the big IPC projects that is going on is the 500kV line, Boardman-to-Hemmingway, and we got the chance to see the Hemmingway substation that it will connect to. The machines and transformers there were incredibly massive to handle such high voltages.
 
-![](B2H){:width="50%"}
-![](Rock-Jump){:width="50%"}
+![B2H](https://github.com/Gageco/gagecoMain/blob/master/images/IPCO/Cabin.jpg?raw=true){:width="50%"}
+![RockJump](https://github.com/Gageco/gagecoMain/blob/master/images/IPCO/Cabin.jpg?raw=true){:width="50%"}
 I got the chance to follow around "Push Crews" who install the cables from the transformer level to residents. Every site I visited and every person I met was kind and helpful and very willing to answer any questions I had no matter how small or large. I was frankly surprised by that, from linemen who are out in the field keeping everything together and working, to the CEO, Lisa Grow, who I met in passing a few times. Everyone was kind and helpful. I also had the chance to make friends with the other interns, and it was so fun to have the opportunity to make friends who go to different schools, or are in different disciplines and spend time and talk with them about what their projects were. Getting their insight on what we were seeing and learning from the tours.
 
-![](Cabin){:width="50%"}
+![Cabin](https://github.com/Gageco/gagecoMain/blob/master/images/IPCO/Cabin.jpg?raw=true){:width="50%"}
 
 This internship was absolutely incredible, I am so glad I had the opportunity to work with everyone in Methods & Materials. Being able to sit and work with many experienced engineers and talk about concepts I had only ever worked with in class on a theoretical level was fascinating and allowed me to develop more understanding then I could have just in class. I don't know if the conclusions I came to will be considered, or the calculator I developed used, though I have been told both are incredibly helpful, but what I learned in the process of developing them was invaluable. I really have enjoyed electrical engineering, the concepts I have found fascinating, and while power being a blank space in my understanding was scary to have while working at Idaho *Power* everyone was helpful and kind in helping me learn more then just the theoretical math behind it all, but how it is applied in real life.
