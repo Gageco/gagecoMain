@@ -46,6 +46,7 @@ My time at Idaho Power was amazing, I had the opportunity to visit a few of the 
 
 ![B2H](https://coprivnicar.com/images/IPCO/Hemmingway-Transformer.jpg){:width="50%"}
 ![RockJump](https://coprivnicar.com/images/IPCO/Rock-Jump.jpg){:width="50%"}
+
 I got the chance to follow around "Push Crews" who install the cables from the transformer level to residents. Every site I visited and every person I met was kind and helpful and very willing to answer any questions I had no matter how small or large. I was frankly surprised by that, from linemen who are out in the field keeping everything together and working, to the CEO, Lisa Grow, who I met in passing a few times. Everyone was kind and helpful. I also had the chance to make friends with the other interns, and it was so fun to have the opportunity to make friends who go to different schools, or are in different disciplines and spend time and talk with them about what their projects were. Getting their insight on what we were seeing and learning from the tours.
 
 ![Cabin](https://coprivnicar.com/images/IPCO/Cabin.jpg){:width="50%"}
