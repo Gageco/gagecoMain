@@ -11,9 +11,9 @@ sitemap:
 
 <span class="image left"><img src="{{ "./images/pic04.png" | absolute_url }}" alt="" /></span>
 
-I live in Boise ID and in my free time enjoy rafting, making music, and working on my hydroponic garden.
+I live in Garden City ID and in my free time enjoy rafting, making music, gardening, wood working and other hobbies!
 
-I started going to Boise State University full-time in 2020, and am pursuing a degree in Electrical Engineering. I have a lot of experience with programming, and have had a few different internships where I was tasked with research and development for different projects, at ECCO and Royal Jay.
+I got my undergraduate degree in Electrical Engineering at Boise State University, and am halfway towards a Master's of Engineering in the same field. I have a lot of experience with programming and circuit assembly, and have had a wide variety of internships and jobs utilizing these skills.
 <br>
 <br>
 <br>
@@ -30,6 +30,11 @@ I had an internship at ECCO in 2017 where I worked on developing a light tester 
 The summer of 2018, following my internship at ECCO, I took an internship at Royal Jay, also local to Boise, Idaho. When I was working there, they were focused on healthcare software to aid in the simplification of healthcare in Idaho and the US more generally.
 
 While I was interning there, I was tasked with finding applications for machine learning in determining healthcare outcomes. I was given anonymized data, and using Microsoft Azure Machine Learning software I ran different regressions to find what trends I could. In the end I gave a presentation showing the outcomes of the research and regressions and discussed potential applications of my findings.
+
+[**Idaho Power**](https://idahopower.com/)
+
+In the summer of 2022 I had the opportunity to work at Idah Power. The opportunity was incredible, and I learned and feel I contributed to the Methods & Materials team I was assigned to. My goal was to look at the change in power consumption that households in the Boise area had from the purchase date of the EV and how that impacted the local transformer. Using this data, I was able to create projections for when different transformers would be unable to carry the power load the EVs had on the electrical grid.
+
 
 ### Programming
 
