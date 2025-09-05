@@ -4,7 +4,7 @@ title:  "College Graduation & A Day In My Life"
 categories: graduation
 ---
 
-I have graduated college!
+I have graduated college! It just took seven years.
 
 ## Graduation
 
